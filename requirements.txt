@@ -1,0 +1,3 @@
+text
+anthropic
+python-dotenv
